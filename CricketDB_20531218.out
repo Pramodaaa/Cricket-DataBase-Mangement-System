@@ -1,0 +1,1508 @@
+mysql> CREATE DATABASE CricketDB_20531218;
+Query OK, 1 row affected (0.01 sec)
+
+mysql> USE CricketDB_20531218;
+Database changed
+mysql> SOURCE ./create_tables.sql
+Query OK, 0 rows affected, 1 warning (0.01 sec)
+
+Query OK, 0 rows affected (0.03 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+Query OK, 0 rows affected, 1 warning (0.01 sec)
+
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected (0.03 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 5 warnings (0.04 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.04 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.04 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected (0.05 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.05 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 5 warnings (0.03 sec)
+
+Query OK, 0 rows affected, 1 warning (0.01 sec)
+
+Query OK, 0 rows affected, 1 warning (0.04 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 4 warnings (0.03 sec)
+
+Query OK, 0 rows affected, 1 warning (0.01 sec)
+
+Query OK, 0 rows affected, 3 warnings (0.04 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.05 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.04 sec)
+
+mysql> SOURCE ./insertOne.sql
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.02 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.02 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+mysql> SOURCE ./insertTwo.sql
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.02 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+mysql> SOURCE ./insertThree.sql
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.02 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+mysql> SOURCE ./Queries.sql
+Query OK, 0 rows affected, 1 warning (0.05 sec)
+Records: 0  Duplicates: 0  Warnings: 1
+
+Query OK, 17 rows affected (0.01 sec)
+Rows matched: 17  Changed: 17  Warnings: 0
+
++--------------------+-----+---------+----------+------------+------------+----------------+-------------+
+| teamName           | CID | no_wins | no_loses | no_bowlers | no_batsmen | no_allRounders | tot_matches |
++--------------------+-----+---------+----------+------------+------------+----------------+-------------+
+| Afghanistan Team   | c4  |      41 |       55 |          4 |          4 |              2 |          96 |
+| Australian Team    | c2  |      49 |       23 |          4 |          6 |              4 |          72 |
+| Bangladesh Team    | c5  |      56 |       38 |          7 |          7 |              3 |          94 |
+| Canadian Team      | c15 |      20 |       49 |          6 |          8 |              2 |          69 |
+| England Team       | c10 |      37 |       30 |          7 |          5 |              2 |          67 |
+| Indian Team        | c8  |      77 |       50 |          5 |          5 |              3 |         127 |
+| Ireland Team       | c6  |      37 |       55 |          7 |          5 |              1 |          92 |
+| Kenya Team         | c16 |      50 |       44 |          6 |          6 |              3 |          94 |
+| Nepal Team         | c13 |      30 |        9 |          2 |          8 |              2 |          39 |
+| Netherlands Team   | c9  |      49 |       40 |          7 |          7 |              1 |          89 |
+| New Zealand Team   | c1  |      42 |       20 |          8 |          4 |              2 |          62 |
+| Pakistan Team      | c3  |      12 |       23 |          6 |          5 |              2 |          35 |
+| South African Team | c13 |      36 |       54 |          6 |          8 |              3 |          90 |
+| Sri Lankan Team    | c11 |      78 |       44 |          6 |          6 |              1 |         122 |
+| United states Team | c14 |      10 |       30 |          7 |          5 |              2 |          40 |
+| West Indians Team  | c12 |      44 |       34 |          4 |          4 |              2 |          78 |
+| Zimbabwe Team      | c7  |      44 |       30 |          5 |          6 |              2 |          74 |
++--------------------+-----+---------+----------+------------+------------+----------------+-------------+
+17 rows in set (0.00 sec)
+
++------------------+------+
+| umpire_name      | umID |
++------------------+------+
+| Russell Bird     | 15   |
+| Kumar Dharamsena | 4    |
+| Joel Wilson      | 10   |
++------------------+------+
+3 rows in set (0.00 sec)
+
++---------------------+--------------------+------------------+
+| pName               | teamName           | keeper_playerNum |
++---------------------+--------------------+------------------+
+| Rohit Sharma        | Indian Team        |                1 |
+| Chamika Karunaratne | Sri Lankan Team    |                1 |
+| David Warner        | United states Team |                1 |
+| Babar Azam          | West Indians Team  |                1 |
+| Temba Bavuma        | Kenya Team         |                3 |
+| Shaheen Afridi      | Bangladesh Team    |                4 |
+| Virat Kohli         | Indian Team        |                5 |
+| Aman Gandhi         | Kenya Team         |                5 |
+| Rishabh Panti       | Pakistan Team      |                5 |
+| Aaron Finch         | United states Team |                6 |
+| Marnus Labuschagne  | Australian Team    |                7 |
+| Zaruk Bishu         | West Indians Team  |                7 |
+| Litton Das          | Afghanistan Team   |                8 |
+| Gurdeep Singh       | Bangladesh Team    |                9 |
+| Jacob Oram          | New Zealand Team   |                9 |
+| Dasun Shanaka       | Sri Lankan Team    |                9 |
+| Temba Bavuma        | South African Team |               10 |
+| Paul Stirling       | Ireland Team       |               12 |
+| Geroge Nickson      | Australian Team    |               14 |
+| Mahmudullah         | Afghanistan Team   |               15 |
+| Tim Southee         | Canadian Team      |               15 |
++---------------------+--------------------+------------------+
+21 rows in set (0.00 sec)
+
++--------------------+----------+
+| teamName           | totalNum |
++--------------------+----------+
+| Netherlands Team   |        5 |
+| New Zealand Team   |        4 |
+| Pakistan Team      |        4 |
+| Sri Lankan Team    |        4 |
+| Australian Team    |        3 |
+| Zimbabwe Team      |        3 |
+| Indian Team        |        3 |
+| Ireland Team       |        3 |
+| West Indians Team  |        2 |
+| Afghanistan Team   |        2 |
+| Bangladesh Team    |        2 |
+| United states Team |        2 |
+| South African Team |        2 |
+| Canadian Team      |        1 |
+| England Team       |        1 |
+| Kenya Team         |        1 |
++--------------------+----------+
+16 rows in set (0.00 sec)
+
++-----+----------------+--------------------+---------+
+| CID | coachName      | teamName           | no_wins |
++-----+----------------+--------------------+---------+
+| c13 | Curt shaks     | South African Team |      36 |
+| c10 | Roy Dais       | England Team       |      37 |
+| c6  | Austin Mcbroom | Ireland Team       |      37 |
+| c4  | Ottis Gibson   | Afghanistan Team   |      41 |
+| c1  | Sanjay Bangar  | New Zealand Team   |      42 |
+| c12 | Jack Cart      | West Indians Team  |      44 |
+| c7  | John Wright    | Zimbabwe Team      |      44 |
+| c2  | Justin Langer  | Australian Team    |      49 |
+| c9  | Andy Flower    | Netherlands Team   |      49 |
+| c16 | Luke Nasis     | Kenya Team         |      50 |
+| c5  | Gary Kristen   | Bangladesh Team    |      56 |
+| c8  | Mickey Arthur  | Indian Team        |      77 |
+| c11 | Jill Zara      | Sri Lankan Team    |      78 |
++-----+----------------+--------------------+---------+
+13 rows in set (0.00 sec)
+
++------------------+--------------+
+| umpire_name      | no_standings |
++------------------+--------------+
+| Jason Fred       |           62 |
+| Kumar Dharamsena |           56 |
+| Chris Gaffaney   |           65 |
++------------------+--------------+
+3 rows in set (0.00 sec)
+
++--------------------------------------------+
+| place                                      |
++--------------------------------------------+
+| Eden Garden Kolkata India                  |
+| Narendra Modi Stadium Ahemedabad India     |
+| National Stadium Karachi Pakistan          |
+| Perth Stadium Perth Australia              |
+| The Gabba Brisbane Australia               |
+| Eden Park Auckland New Zealand             |
+| Chinnaswamy Bengaluru India                |
+| Sky Stadium Wellington New Zealand         |
+| R. Premadasa Stadium Colombo Sri Lanka     |
+| Greenfield Stadium Trelawny Parish Jamaica |
+| Buffalo Park East-London South Africa      |
++--------------------------------------------+
+11 rows in set (0.00 sec)
+
++-----+-------------------+--------------------+--------------+
+| MID | firstTeam         | secondTeam         | highestScore |
++-----+-------------------+--------------------+--------------+
+| M1  | Australian Team   | Netherlands Team   |          191 |
+| M10 | Canadian Team     | Netherlands Team   |          163 |
+| M14 | Indian Team       | Sri Lankan Team    |          162 |
+| M15 | Afghanistan Team  | Zimbabwe Team      |          212 |
+| M16 | Pakistan Team     | Bangladesh Team    |          161 |
+| M17 | West Indians Team | United states Team |          187 |
+| M19 | Ireland Team      | Sri Lankan Team    |          236 |
+| M20 | New Zealand Team  | Afghanistan Team   |          157 |
+| M3  | Pakistan Team     | England Team       |          222 |
+| M7  | Kenya Team        | Bangladesh Team    |          209 |
++-----+-------------------+--------------------+--------------+
+10 rows in set (0.00 sec)
+
++-----------+--------------+----------------+-----------+
+| playerNum | teamName     | player_Name    | tot_score |
++-----------+--------------+----------------+-----------+
+|        13 | England Team | Jake Bieber    | 100       |
+|        16 | Ireland Team | Colin de Grand | 76        |
++-----------+--------------+----------------+-----------+
+2 rows in set (0.00 sec)
+
++-----+------------------+-----------------+------+
+| MID | firstTeam        | secondTeam      | umID |
++-----+------------------+-----------------+------+
+| M14 | Indian Team      | Sri Lankan Team | 1    |
+| M19 | Ireland Team     | Sri Lankan Team | 5    |
+| M21 | New Zealand Team | Sri Lankan Team | 3    |
+| M6  | Sri Lankan Team  | Australian Team | 10   |
++-----+------------------+-----------------+------+
+4 rows in set (0.00 sec)
+
++-----+-----+------+-----------+---------------+------------------+
+| MID | TID | umID | stadiumID | firstTeam     | secondTeam       |
++-----+-----+------+-----------+---------------+------------------+
+| M3  | T1  | 13   | s1        | Pakistan Team | England Team     |
+| M4  | T1  | 12   | s1        | Indian Team   | New Zealand Team |
++-----+-----+------+-----------+---------------+------------------+
+2 rows in set (0.00 sec)
+
++-----+--------------------+--------------------+----------------------------------------+----------+
+| MID | firstTeam          | secondTeam         | location                               | capacity |
++-----+--------------------+--------------------+----------------------------------------+----------+
+| M20 | New Zealand Team   | Afghanistan Team   | The Gabba Brisbane Australia           |    42000 |
+| M21 | New Zealand Team   | Sri Lankan Team    | The Gabba Brisbane Australia           |    42000 |
+| M7  | Kenya Team         | Bangladesh Team    | Eden Park Auckland New Zealand         |    55000 |
+| M8  | South African Team | Pakistan Team      | Eden Park Auckland New Zealand         |    55000 |
+| M5  | Ireland Team       | Netherlands Team   | Perth Stadium Perth Australia          |    61900 |
+| M6  | Sri Lankan Team    | Australian Team    | Perth Stadium Perth Australia          |    61900 |
+| M10 | Canadian Team      | Netherlands Team   | Sky Stadium Wellington New Zealand     |    63500 |
+| M9  | United states Team | Netherlands Team   | Sky Stadium Wellington New Zealand     |    63500 |
+| M3  | Pakistan Team      | England Team       | Eden Garden Kolkata India              |    68000 |
+| M4  | Indian Team        | New Zealand Team   | Eden Garden Kolkata India              |    68000 |
+| M17 | West Indians Team  | United states Team | Narendra Modi Stadium Ahemedabad India |   120000 |
+| M18 | South African Team | Ireland Team       | Narendra Modi Stadium Ahemedabad India |   120000 |
+| M19 | Ireland Team       | Sri Lankan Team    | Narendra Modi Stadium Ahemedabad India |   120000 |
++-----+--------------------+--------------------+----------------------------------------+----------+
+13 rows in set (0.00 sec)
+
++----+--------------------+---------------------+-----------+
+| ID | Team               | Name                | tot_score |
++----+--------------------+---------------------+-----------+
+|  1 | Indian Team        | Rohit Sharma        | 100       |
+|  9 | New Zealand Team   | Jacob Oram          | 24        |
+| 16 | Canadian Team      | Geroge Nickson      | 7         |
+|  6 | United states Team | Aaron Finch         | 50        |
+|  8 | Afghanistan Team   | Litton Das          | NULL      |
+|  5 | Pakistan Team      | Rishabh Panti       | 34        |
+| 10 | Sri Lankan Team    | Kusal Mendis        | NULL      |
+| 11 | New Zealand Team   | Chris Cairns        | 50        |
+|  1 | Sri Lankan Team    | Chamika Karunaratne | NULL      |
+|  4 | Netherlands Team   | Gareth Delany       | 35        |
++----+--------------------+---------------------+-----------+
+10 rows in set (0.00 sec)
+
++----+--------------------+-------------+------+
+| ID | TEAM               | Strike_Rate | Runs |
++----+--------------------+-------------+------+
+|  1 | Sri Lankan Team    |      472.34 |   50 |
+|  1 | United states Team |      459.00 |   54 |
+|  3 | Kenya Team         |      569.00 |   37 |
+|  4 | Bangladesh Team    |      456.20 |   24 |
+|  7 | Australian Team    |      628.00 |   35 |
+|  8 | England Team       |      678.00 |   34 |
+|  9 | New Zealand Team   |      458.10 |   24 |
+| 10 | South African Team |      459.49 |   34 |
+| 11 | New Zealand Team   |      445.50 |   34 |
+| 15 | Canadian Team      |      560.90 |   44 |
++----+--------------------+-------------+------+
+10 rows in set (0.00 sec)
+
++---------------------+--------------------+
+| pName               | teamName           |
++---------------------+--------------------+
+| Shaheen Afridi      | Bangladesh Team    |
+| Gareth Delany       | Netherlands Team   |
+| Dhananjaya de Silva | Sri Lankan Team    |
+| Virat Kohli         | Indian Team        |
+| Aman Gandhi         | Kenya Team         |
+| Rishabh Panti       | Pakistan Team      |
+| Marnus Labuschagne  | Australian Team    |
+| Zaruk Bishu         | West Indians Team  |
+| Litton Das          | Afghanistan Team   |
+| David McBroom       | England Team       |
+| Gurdeep Singh       | Bangladesh Team    |
+| Jacob Oram          | New Zealand Team   |
+| Dasun Shanaka       | Sri Lankan Team    |
+| Temba Bavuma        | South African Team |
+| Kusal Mendis        | Sri Lankan Team    |
+| Richaz Helen        | Zimbabwe Team      |
+| Paul Stirling       | Ireland Team       |
+| Devon Conway        | Netherlands Team   |
+| Jake Bieber         | England Team       |
+| Geroge Nickson      | Afghanistan Team   |
+| Geroge Nickson      | Australian Team    |
+| Sikandar Raza       | Zimbabwe Team      |
+| Zeeshan Maqsood     | South African Team |
++---------------------+--------------------+
+23 rows in set (0.00 sec)
+
++-----------+-------------------+---------------------+
+| playerNum | teamName          | batting_strike_rate |
++-----------+-------------------+---------------------+
+|         1 | Sri Lankan Team   |                 472 |
+|         1 | West Indians Team |                 369 |
+|         8 | England Team      |                 678 |
+|        10 | Sri Lankan Team   |                 239 |
+|        14 | Zimbabwe Team     |                 230 |
+|        15 | Afghanistan Team  |                 236 |
++-----------+-------------------+---------------------+
+6 rows in set (0.00 sec)
+
++-----------+--------------------+---------------------+----------------------------+
+| playerNum | teamName           | playerName          | birthdate                  |
++-----------+--------------------+---------------------+----------------------------+
+|         1 | Indian Team        | Rohit Sharma        | Friday, 14 March 1986      |
+|         1 | Sri Lankan Team    | Chamika Karunaratne | Wednesday, 29 May 1996     |
+|         1 | United states Team | David Warner        | Thursday, 2 January 1986   |
+|         1 | West Indians Team  | Babar Azam          | Saturday, 13 January 1990  |
+|         3 | Kenya Team         | Temba Bavuma        | Monday, 23 April 1990      |
+|         4 | Bangladesh Team    | Shaheen Afridi      | Sunday, 23 April 2000      |
+|         5 | Pakistan Team      | Rishabh Panti       | Tuesday, 19 August 1997    |
+|         6 | United states Team | Aaron Finch         | Saturday, 12 November 1983 |
+|         8 | Afghanistan Team   | Litton Das          | Sunday, 13 February 1994   |
+|         9 | New Zealand Team   | Jacob Oram          | Saturday, 19 August 2000   |
+|        12 | Ireland Team       | Paul Stirling       | Friday, 12 April 1940      |
+|        14 | Australian Team    | Geroge Nickson      | Wednesday, 12 July 1989    |
++-----------+--------------------+---------------------+----------------------------+
+12 rows in set (0.00 sec)
+
++-----------+---------------------+--------------------+------+
+| playerNum | playerName          | teamName           | Age  |
++-----------+---------------------+--------------------+------+
+|         1 | Rohit Sharma        | Indian Team        |   36 |
+|         1 | Maheesh Theek       | Pakistan Team      |   22 |
+|         1 | Chamika Karunaratne | Sri Lankan Team    |   26 |
+|         1 | David Warner        | United states Team |   36 |
+|         1 | Babar Azam          | West Indians Team  |   32 |
+|         2 | Craig McMillan      | New Zealand Team   |   40 |
+|         3 | Temba Bavuma        | Kenya Team         |   32 |
+|         4 | Shaheen Afridi      | Bangladesh Team    |   22 |
+|         4 | Gareth Delany       | Netherlands Team   |   25 |
+|         4 | Dhananjaya de Silva | Sri Lankan Team    |   30 |
+|         5 | Virat Kohli         | Indian Team        |   32 |
+|         5 | Aman Gandhi         | Kenya Team         |   23 |
+|         5 | Rishabh Panti       | Pakistan Team      |   25 |
+|         6 | Aaron Finch         | United states Team |   38 |
+|         7 | Marnus Labuschagne  | Australian Team    |   28 |
+|         7 | Zaruk Bishu         | West Indians Team  |   32 |
+|         8 | Litton Das          | Afghanistan Team   |   28 |
+|         8 | David McBroom       | England Team       |   28 |
+|         9 | Gurdeep Singh       | Bangladesh Team    |   23 |
+|         9 | Jacob Oram          | New Zealand Team   |   22 |
+|         9 | Dasun Shanaka       | Sri Lankan Team    |   30 |
+|        10 | Temba Bavuma        | South African Team |   23 |
+|        10 | Kusal Mendis        | Sri Lankan Team    |   27 |
+|        10 | Richaz Helen        | Zimbabwe Team      |   23 |
+|        11 | Chris Cairns        | New Zealand Team   |   26 |
+|        12 | Paul Stirling       | Ireland Team       |   82 |
+|        12 | Devon Conway        | Netherlands Team   |   31 |
+|        13 | Jake Bieber         | England Team       |   23 |
+|        14 | Geroge Nickson      | Afghanistan Team   |   33 |
+|        14 | Geroge Nickson      | Australian Team    |   33 |
+|        14 | Sikandar Raza       | Zimbabwe Team      |   36 |
+|        15 | Mahmudullah         | Afghanistan Team   |   33 |
+|        15 | Tim Southee         | Canadian Team      |   45 |
+|        16 | Geroge Nickson      | Canadian Team      |   33 |
+|        16 | Colin de Grand      | Ireland Team       |   36 |
+|        17 | Zeeshan Maqsood     | South African Team |   24 |
++-----------+---------------------+--------------------+------+
+36 rows in set (0.00 sec)
+
++----------------+------+
+| umpire_name    | umID |
++----------------+------+
+| Nigel Long     | 2    |
+| Chris Gaffaney | 5    |
+| Tony Hill      | 13   |
+| Aleem Dar      | 9    |
++----------------+------+
+4 rows in set (0.00 sec)
+
++--------------------+----------+
+| Team               | Winnings |
++--------------------+----------+
+| West Indians Team  |        2 |
+| Zimbabwe Team      |        1 |
+| Ireland Team       |        1 |
+| South African Team |        1 |
+| New Zealand Team   |        2 |
+| Netherlands Team   |        2 |
+| Pakistan Team      |        1 |
+| Indian Team        |        2 |
+| Sri Lankan Team    |        2 |
+| Bangladesh Team    |        2 |
+| Canadian Team      |        1 |
+| Australian Team    |        1 |
+| Afghanistan Team   |        1 |
+| England Team       |        1 |
++--------------------+----------+
+14 rows in set (0.00 sec)
+
++-----+--------------------------------------+----------+
+| MID | StadiumName                          | capacity |
++-----+--------------------------------------+----------+
+| M3  | Eden Garden in Kolkata               |    68000 |
+| M4  | Eden Garden in Kolkata               |    68000 |
+| M17 | Narendra Modi Stadium in Ahemedabad  |   120000 |
+| M18 | Narendra Modi Stadium in Ahemedabad  |   120000 |
+| M19 | Narendra Modi Stadium in Ahemedabad  |   120000 |
+| M1  | NULL                                 |     NULL |
+| M2  | NULL                                 |     NULL |
+| M5  | NULL                                 |     NULL |
+| M6  | NULL                                 |     NULL |
+| M20 | NULL                                 |     NULL |
+| M21 | NULL                                 |     NULL |
+| M7  | NULL                                 |     NULL |
+| M8  | NULL                                 |     NULL |
+| M10 | NULL                                 |     NULL |
+| M9  | NULL                                 |     NULL |
+| M11 | NULL                                 |     NULL |
+| M12 | NULL                                 |     NULL |
+| M13 | NULL                                 |     NULL |
+| M14 | NULL                                 |     NULL |
+| M15 | NULL                                 |     NULL |
+| M16 | NULL                                 |     NULL |
++-----+--------------------------------------+----------+
+21 rows in set (0.01 sec)
+
++-----+-----------------+---------+------------+------+-------+
+| TID | teamName        | ranking | series     | year | overs |
++-----+-----------------+---------+------------+------+-------+
+| T5  | Sri Lankan Team |       1 | Test match | 1997 | 101   |
+| T6  | Sri Lankan Team |       2 | T20        | 1999 | 20    |
+| T7  | Sri Lankan Team |       6 | T10        | 1996 | 10    |
+| T8  | Sri Lankan Team |      12 | ODI        | 2013 | 50    |
++-----+-----------------+---------+------------+------+-------+
+4 rows in set (0.00 sec)
+
++-----+------------+------------------+------+---------+
+| TID | series     | teamName         | year | ranking |
++-----+------------+------------------+------+---------+
+| T3  | T20        | England Team     | 1976 |      16 |
+| T1  | Test match | England Team     | 1984 |      14 |
+| T14 | T20        | Afghanistan Team | 2022 |      13 |
+| T17 | T10        | Netherlands Team | 2022 |      13 |
+| T9  | ODI        | Afghanistan Team | 2000 |      13 |
+| T13 | ODI        | Bangladesh Team  | 2019 |      12 |
+| T16 | ODI        | Australian Team  | 2019 |      12 |
+| T19 | Test match | Bangladesh Team  | 2016 |      12 |
+| T8  | ODI        | Sri Lankan Team  | 2013 |      12 |
++-----+------------+------------------+------+---------+
+9 rows in set (0.00 sec)
+
++------------+---------------------+-------------------+--------------------+--------------+----------------+
+| scheduleID | date_time           | winner            | runnerUp           | highestScore | man_of_match   |
++------------+---------------------+-------------------+--------------------+--------------+----------------+
+|         11 | 2016-02-18 19:30:00 | Zimbabwe Team     | New Zealand Team   |           83 | Sikandar Raza  |
+|         13 | 2021-02-24 12:30:00 | West Indians Team | Netherlands Team   |           73 | Babar Azam     |
+|         18 | 2010-02-21 15:00:00 | Ireland Team      | South African Team |           98 | Colin de Grand |
++------------+---------------------+-------------------+--------------------+--------------+----------------+
+3 rows in set (0.00 sec)
+
++---------+-----+-----------+--------------------+
+| scoreID | MID | tot_sixes | winner             |
++---------+-----+-----------+--------------------+
+| 014     | M14 |      NULL | Indian Team        |
+| 015     | M15 |      NULL | Afghanistan Team   |
+| 019     | M19 |      NULL | Sri Lankan Team    |
+| 04      | M4  |      NULL | New Zealand Team   |
+| 08      | M8  |      NULL | South African Team |
+| 09      | M9  |      NULL | Netherlands Team   |
+| 011     | M11 |      NULL | Zimbabwe Team      |
+| 016     | M16 |         1 | Bangladesh Team    |
+| 013     | M13 |         2 | West Indians Team  |
+| 05      | M5  |         2 | Netherlands Team   |
+| 012     | M12 |         2 | Pakistan Team      |
+| 010     | M10 |         5 | Canadian Team      |
+| 017     | M17 |         5 | West Indians Team  |
+| 02      | M2  |         5 | Indian Team        |
+| 018     | M18 |         6 | Ireland Team       |
+| 020     | M20 |         7 | New Zealand Team   |
+| 07      | M7  |         9 | Bangladesh Team    |
+| 01      | M1  |        10 | Australian Team    |
+| 06      | M6  |        10 | Sri Lankan Team    |
+| 03      | M3  |        12 | England Team       |
++---------+-----+-----------+--------------------+
+20 rows in set (0.00 sec)
+
++-----------------------------+--------------------+
+| player_with_max_strike_rate | teamName           |
++-----------------------------+--------------------+
+|                      236.12 | Afghanistan Team   |
+|                      628.00 | Australian Team    |
+|                      456.20 | Bangladesh Team    |
+|                      560.90 | Canadian Team      |
+|                      678.00 | England Team       |
+|                      333.30 | Indian Team        |
+|                      253.23 | Ireland Team       |
+|                      569.00 | Kenya Team         |
+|                      334.50 | Netherlands Team   |
+|                      458.10 | New Zealand Team   |
+|                      100.34 | Pakistan Team      |
+|                      459.49 | South African Team |
+|                      472.34 | Sri Lankan Team    |
+|                      459.00 | United states Team |
+|                      368.50 | West Indians Team  |
+|                      230.31 | Zimbabwe Team      |
++-----------------------------+--------------------+
+16 rows in set (0.01 sec)
+
+mysql> DELIMITER //  
+mysql> CREATE PROCEDURE get_schedules()  
+    -> COMMENT 'To get the total schedules of the matches available in the database'
+    -> BEGIN  
+    ->     SELECT Plays.date_time FROM Plays;  
+    ->     SELECT COUNT(scheduleID) AS Total_Schedules FROM Plays;    
+    -> END //
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> DELIMITER ;  
+mysql> CALL get_schedules; 
++---------------------+
+| date_time           |
++---------------------+
+| 1998-02-12 12:30:00 |
+| 1986-07-01 14:00:00 |
+| 1976-04-12 11:30:00 |
+| 1990-02-01 16:00:00 |
+| 1999-02-24 16:30:00 |
+| 1996-01-09 12:30:00 |
+| 1996-01-16 19:30:00 |
+| 1995-02-12 10:30:00 |
+| 2013-01-15 20:00:00 |
+| 2013-03-29 18:30:00 |
+| 2016-02-18 19:30:00 |
+| 2022-01-22 10:30:00 |
+| 2021-02-24 12:30:00 |
+| 2019-02-12 19:30:00 |
+| 2004-02-12 19:00:00 |
+| 2014-08-12 11:30:00 |
+| 2000-02-22 12:00:00 |
+| 2010-02-21 15:00:00 |
+| 2022-02-27 12:00:00 |
+| 2016-03-20 11:00:00 |
++---------------------+
+20 rows in set (0.00 sec)
+
++-----------------+
+| Total_Schedules |
++-----------------+
+|              20 |
++-----------------+
+1 row in set (0.04 sec)
+
+Query OK, 0 rows affected (0.04 sec)
+
+mysql> DELIMITER $$ 
+mysql> CREATE PROCEDURE insToTeam(
+    -> teamname  VARCHAR(24),
+    ->         coachID   CHAR(4),
+    ->         wins   INT(4),
+    ->         loses  INT(4),
+    ->         bowlers INT(4),
+    ->         batsmen INT(4),  
+    ->         allRounders INT(4),
+    ->         tot_matches INT(6)   
+    -> )
+    -> COMMENT 'Insert new Team information into the team table'
+    -> BEGIN
+    -> IF wins > 1 AND loses > 1 THEN -- if wins and loses greater than 1
+    -> INSERT INTO Team(teamName, CID, no_wins, no_loses, no_bowlers, no_batsmen, no_allRounders, tot_matches)
+    -> VALUES(teamname, coachID, wins, loses, bowlers, batsmen, allRounders, tot_matches);
+    -> ELSE 
+    -> INSERT INTO Team(teamName, CID, no_wins, no_loses, no_bowlers, no_batsmen, no_allRounders, tot_matches)
+    -> VALUES(teamname, coachID, 0, 0, bowlers, batsmen, allRounders, NULL);
+    -> 
+    -> END IF;
+    -> END $$
+Query OK, 0 rows affected, 6 warnings (0.01 sec)
+
+mysql> DELIMITER ; -- end of the procedure 
+mysql> CALL insToTeam('Qatar Team', 'c3', 38, 67, 5, 9, 3, 102);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> CALL insToTeam('Hong Kong Team', 'c6', 0, 0, 4, 5, 5, NULL); 
+Query OK, 1 row affected (0.01 sec)
+
+mysql> SELECT * FROM Team;
++--------------------+-----+---------+----------+------------+------------+----------------+-------------+
+| teamName           | CID | no_wins | no_loses | no_bowlers | no_batsmen | no_allRounders | tot_matches |
++--------------------+-----+---------+----------+------------+------------+----------------+-------------+
+| Afghanistan Team   | c4  |      41 |       55 |          4 |          4 |              2 |          96 |
+| Australian Team    | c2  |      49 |       23 |          4 |          6 |              4 |          72 |
+| Bangladesh Team    | c5  |      56 |       38 |          7 |          7 |              3 |          94 |
+| Canadian Team      | c15 |      20 |       49 |          6 |          8 |              2 |          69 |
+| England Team       | c10 |      37 |       30 |          7 |          5 |              2 |          67 |
+| Hong Kong Team     | c6  |       0 |        0 |          4 |          5 |              5 |        NULL |
+| Indian Team        | c8  |      77 |       50 |          5 |          5 |              3 |         127 |
+| Ireland Team       | c6  |      37 |       55 |          7 |          5 |              1 |          92 |
+| Kenya Team         | c16 |      50 |       44 |          6 |          6 |              3 |          94 |
+| Nepal Team         | c13 |      30 |        9 |          2 |          8 |              2 |          39 |
+| Netherlands Team   | c9  |      49 |       40 |          7 |          7 |              1 |          89 |
+| New Zealand Team   | c1  |      42 |       20 |          8 |          4 |              2 |          62 |
+| Pakistan Team      | c3  |      12 |       23 |          6 |          5 |              2 |          35 |
+| Qatar Team         | c3  |      38 |       67 |          5 |          9 |              3 |         102 |
+| South African Team | c13 |      36 |       54 |          6 |          8 |              3 |          90 |
+| Sri Lankan Team    | c11 |      78 |       44 |          6 |          6 |              1 |         122 |
+| United states Team | c14 |      10 |       30 |          7 |          5 |              2 |          40 |
+| West Indians Team  | c12 |      44 |       34 |          4 |          4 |              2 |          78 |
+| Zimbabwe Team      | c7  |      44 |       30 |          5 |          6 |              2 |          74 |
++--------------------+-----+---------+----------+------------+------------+----------------+-------------+
+19 rows in set (0.01 sec)
+
+mysql> DELIMITER $$ 
+mysql> CREATE PROCEDURE insToTeamTotMacthes(
+    -> teamname  VARCHAR(24),
+    ->         coachID   CHAR(4),
+    ->         wins   INT(4),
+    ->         loses  INT(4),
+    ->         bowlers INT(4),
+    ->         batsmen INT(4),  
+    ->         allRounders INT(4),
+    ->         tot_matches INT(6),
+    -> OUT total INT 
+    -> )
+    -> COMMENT 'Update Team information by inserting a new team in to the team table'
+    -> BEGIN
+    -> IF wins > 1 AND loses > 1 THEN
+    -> SELECT SUM(tot_matches) FROM Team INTO total;
+    -> INSERT INTO Team(teamName, CID, no_wins, no_loses, no_bowlers, no_batsmen, no_allRounders, tot_matches)
+    -> VALUES(teamname, coachID, wins, loses, bowlers, batsmen, allRounders, tot_matches);
+    -> ELSE 
+    -> SELECT SUM(tot_matches) FROM Team INTO total;
+    -> INSERT INTO Team(teamName, CID, no_wins, no_loses, no_bowlers, no_batsmen, no_allRounders, tot_matches)
+    -> VALUES(teamname, coachID, 0, 0, bowlers, batsmen, allRounders, NULL);
+    -> 
+    -> END IF;
+    -> END $$
+Query OK, 0 rows affected, 6 warnings (0.01 sec)
+
+mysql> DELIMITER ; -- end of the procedure 
+mysql> CALL insToTeamTotMacthes('Jersey Team', 'c8', 12, 6, 4, 5, 2, 18, @total); -- insert a new team 
+Query OK, 1 row affected (0.00 sec)
+
+mysql> SELECT * FROM Team;
++--------------------+-----+---------+----------+------------+------------+----------------+-------------+
+| teamName           | CID | no_wins | no_loses | no_bowlers | no_batsmen | no_allRounders | tot_matches |
++--------------------+-----+---------+----------+------------+------------+----------------+-------------+
+| Afghanistan Team   | c4  |      41 |       55 |          4 |          4 |              2 |          96 |
+| Australian Team    | c2  |      49 |       23 |          4 |          6 |              4 |          72 |
+| Bangladesh Team    | c5  |      56 |       38 |          7 |          7 |              3 |          94 |
+| Canadian Team      | c15 |      20 |       49 |          6 |          8 |              2 |          69 |
+| England Team       | c10 |      37 |       30 |          7 |          5 |              2 |          67 |
+| Hong Kong Team     | c6  |       0 |        0 |          4 |          5 |              5 |        NULL |
+| Indian Team        | c8  |      77 |       50 |          5 |          5 |              3 |         127 |
+| Ireland Team       | c6  |      37 |       55 |          7 |          5 |              1 |          92 |
+| Jersey Team        | c8  |      12 |        6 |          4 |          5 |              2 |          18 |
+| Kenya Team         | c16 |      50 |       44 |          6 |          6 |              3 |          94 |
+| Nepal Team         | c13 |      30 |        9 |          2 |          8 |              2 |          39 |
+| Netherlands Team   | c9  |      49 |       40 |          7 |          7 |              1 |          89 |
+| New Zealand Team   | c1  |      42 |       20 |          8 |          4 |              2 |          62 |
+| Pakistan Team      | c3  |      12 |       23 |          6 |          5 |              2 |          35 |
+| Qatar Team         | c3  |      38 |       67 |          5 |          9 |              3 |         102 |
+| South African Team | c13 |      36 |       54 |          6 |          8 |              3 |          90 |
+| Sri Lankan Team    | c11 |      78 |       44 |          6 |          6 |              1 |         122 |
+| United states Team | c14 |      10 |       30 |          7 |          5 |              2 |          40 |
+| West Indians Team  | c12 |      44 |       34 |          4 |          4 |              2 |          78 |
+| Zimbabwe Team      | c7  |      44 |       30 |          5 |          6 |              2 |          74 |
++--------------------+-----+---------+----------+------------+------------+----------------+-------------+
+20 rows in set (0.00 sec)
+
+mysql> SELECT @total 
+    -> ;
++--------+
+| @total |
++--------+
+|    342 |
++--------+
+1 row in set (0.00 sec)
+
+mysql> SHOW PROCEDURE STATUS WHERE db = 'CricketDB_20531218'; 
++--------------------+---------------------+-----------+----------------+---------------------+---------------------+---------------+----------------------------------------------------------------------+----------------------+----------------------+--------------------+
+| Db                 | Name                | Type      | Definer        | Modified            | Created             | Security_type | Comment                                                              | character_set_client | collation_connection | Database Collation |
++--------------------+---------------------+-----------+----------------+---------------------+---------------------+---------------+----------------------------------------------------------------------+----------------------+----------------------+--------------------+
+| CricketDB_20531218 | get_schedules       | PROCEDURE | root@localhost | 2022-11-05 00:47:57 | 2022-11-05 00:47:57 | DEFINER       | To get the total schedules of the matches available in the database  | utf8mb4              | utf8mb4_0900_ai_ci   | utf8mb4_0900_ai_ci |
+| CricketDB_20531218 | insToTeam           | PROCEDURE | root@localhost | 2022-11-05 00:48:20 | 2022-11-05 00:48:20 | DEFINER       | Insert new Team information into the team table                      | utf8mb4              | utf8mb4_0900_ai_ci   | utf8mb4_0900_ai_ci |
+| CricketDB_20531218 | insToTeamTotMacthes | PROCEDURE | root@localhost | 2022-11-05 00:59:14 | 2022-11-05 00:59:14 | DEFINER       | Update Team information by inserting a new team in to the team table | utf8mb4              | utf8mb4_0900_ai_ci   | utf8mb4_0900_ai_ci |
++--------------------+---------------------+-----------+----------------+---------------------+---------------------+---------------+----------------------------------------------------------------------+----------------------+----------------------+--------------------+
+3 rows in set (0.00 sec)
+
+
+
+mysql> 
+mysql> DELIMITER //
+mysql> CREATE TRIGGER updateHighScore
+    -> 
+    -> AFTER UPDATE ON Scoreboard 
+    -> 
+    -> FOR EACH ROW 
+    -> BEGIN
+    -> IF NEW.highestScore < OLD.highestScore THEN 
+    -> UPDATE Scoreboard
+    -> SET highestScore = OLD.highestScore WHERE MID = OLD.MID;
+    -> END IF;
+    -> 
+    -> END
+    -> //
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> DELIMITER;
+    -> SELECT * FROM Scoreboard WHERE MID = 'M10';
+    -> //
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DELIMITER;SELECT * FROM Scoreboard WHERE MID = 'M10'' at line 1
+mysql> SELECT * FROM Scoreboard WHERE MID = 'M10';
+    -> //
++---------+-----+-------------+----------+-----------+-----------+--------------+
+| scoreID | MID | tot_wickets | tot_runs | tot_sixes | tot_fours | highestScore |
++---------+-----+-------------+----------+-----------+-----------+--------------+
+| 010     | M10 |           4 |       45 |         5 |        22 |          163 |
++---------+-----+-------------+----------+-----------+-----------+--------------+
+1 row in set (0.00 sec)
+
+mysql> UPDATE Scoreboard SET highestScore = 200 where MID ='M10';
+    -> //
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> SELECT * FROM Scoreboard WHERE MID = 'M10';
+    -> //
++---------+-----+-------------+----------+-----------+-----------+--------------+
+| scoreID | MID | tot_wickets | tot_runs | tot_sixes | tot_fours | highestScore |
++---------+-----+-------------+----------+-----------+-----------+--------------+
+| 010     | M10 |           4 |       45 |         5 |        22 |          200 |
++---------+-----+-------------+----------+-----------+-----------+--------------+
+1 row in set (0.00 sec)
+
+mysql> UPDATE Scoreboard SET highestScore = NULL where MID ='M10';
+    -> //
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> SELECT * FROM  Scoreboard WHERE MID = 'M10';
+    -> //
++---------+-----+-------------+----------+-----------+-----------+--------------+
+| scoreID | MID | tot_wickets | tot_runs | tot_sixes | tot_fours | highestScore |
++---------+-----+-------------+----------+-----------+-----------+--------------+
+| 010     | M10 |           4 |       45 |         5 |        22 |         NULL |
++---------+-----+-------------+----------+-----------+-----------+--------------+
+1 row in set (0.01 sec)
+
+mysql> DELIMITER //
+mysql> CREATE TRIGGER before_updating_standings
+    -> BEFORE UPDATE
+    -> ON Umpire FOR EACH ROW 
+    -> 
+    -> BEGIN 
+    -> DECLARE error_msg_invalid_stand_number VARCHAR(140);
+    -> SET error_msg_invalid_stand_number  = CONCAT('The new number of Umpire standings ', NEW.no_standings, ' cannot be lower than ', OLD.no_standings);
+    -> IF NEW.no_standings < OLD.no_standings THEN 
+    -> SIGNAL SQLSTATE '45000'
+    -> SET MESSAGE_TEXT = error_msg_invalid_stand_number;
+    -> END IF;
+    -> END//
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> 
+mysql> DELIMETER ;
+    -> UPDATE Umpire SET  no_standings = 20 where umID ='10'; 
+    -> //
+
+mysql> UPDATE Umpire SET  no_standings = 20 WHERE umID ='10'; -- gives the error message
+    -> //
+ERROR 1644 (45000): The new number of Umpire standings 20 cannot be lower than 33
+mysql> CREATE VIEW Tournament_Details AS
+    -> SELECT Matchs.firstTeam AS Team1, Matchs.secondTeam AS Team2,Tournament.overs AS Overs, Stadium.sName AS stadium, Stadium.city AS city, Umpire.umpire_name 
+    -> FROM Matchs JOIN Stadium ON  Matchs.stadiumID = Stadium. stadiumID JOIN Umpire ON Matchs.umID = Umpire.umID JOIN Tournament ON Matchs.TID = Tournament.TID;
+    -> //
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> SELECT * FROM Tournament_Details;
+    -> //
++--------------------+--------------------+-------+-----------------------+-----------------+------------------+
+| Team1              | Team2              | Overs | stadium               | city            | umpire_name      |
++--------------------+--------------------+-------+-----------------------+-----------------+------------------+
+| Indian Team        | Sri Lankan Team    | 20    | Greenfield Stadium    | Trelawny Parish | Ian Gould        |
+| Sri Lankan Team    | Australian Team    | 20    | Perth Stadium         | Perth           | Joel Wilson      |
+| Ireland Team       | Netherlands Team   | 20    | Perth Stadium         | Perth           | Mark Benson      |
+| Indian Team        | New Zealand Team   | 90    | Eden Garden           | Kolkata         | David Nilsen     |
+| South African Team | Ireland Team       | 20    | Narendra Modi Stadium | Ahemedabad      | Tony Hill        |
+| Pakistan Team      | England Team       | 90    | Eden Garden           | Kolkata         | Tony Hill        |
+| West Indians Team  | United states Team | 50    | Narendra Modi Stadium | Ahemedabad      | Jason Fred       |
+| Zimbabwe Team      | Indian Team        | 50    | National Stadium      | Karachi         | Jason Fred       |
+| Australian Team    | Netherlands Team   | 50    | National Stadium      | Karachi         | Russell Bird     |
+| Pakistan Team      | Bangladesh Team    | 101   | Buffalo Park          | East-London     | Russell Bird     |
+| Afghanistan Team   | Zimbabwe Team      | 101   | Buffalo Park          | East-London     | Nigel Long       |
+| West Indians Team  | Netherlands Team   | 20    | Greenfield Stadium    | Trelawny Parish | Rod Tucker       |
+| New Zealand Team   | Afghanistan Team   | 101   | The Gabba             | Brisbane        | Rod Tucker       |
+| New Zealand Team   | Sri Lankan Team    | 101   | The Gabba             | Brisbane        | Rod Tucker       |
+| Australian Team    | Pakistan Team      | 90    | R. Premadasa Stadium  | Colombo         | Kumar Dharamsena |
+| New Zealand Team   | Zimbabwe Team      | 90    | R. Premadasa Stadium  | Colombo         | Chris Gaffaney   |
+| Ireland Team       | Sri Lankan Team    | 20    | Narendra Modi Stadium | Ahemedabad      | Chris Gaffaney   |
+| Canadian Team      | Netherlands Team   | 50    | Sky Stadium           | Wellington      | Billy Bowden     |
+| United states Team | Netherlands Team   | 50    | Sky Stadium           | Wellington      | Boson Nicken     |
+| South African Team | Pakistan Team      | 10    | Eden Park             | Auckland        | Angel dave       |
+| Kenya Team         | Bangladesh Team    | 10    | Eden Park             | Auckland        | Aleem Dar        |
++--------------------+--------------------+-------+-----------------------+-----------------+------------------+
+21 rows in set (0.00 sec)
+
+mysql> CREATE View Netherlands_Details AS
+    -> 
+    -> SELECT Matchs.MID, Stadium.stadiumID  AS Stadium, Tournament.overs AS Overs, Tournament.series AS Series
+    -> FROM Matchs INNER JOIN Tournament ON Matchs.firstTeam = 'Netherlands Team' OR Matchs.secondTeam = 'Netherlands Team' AND Matchs.TID = Tournament.TID INNER JOIN Stadium ON Matchs.stadiumID = Stadium. stadiumID;
+    -> //
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> SELECT * FROM Netherlands_Details;
+    -> //
++-----+---------+-------+--------+
+| MID | Stadium | Overs | Series |
++-----+---------+-------+--------+
+| M13 | s8      | 20    | T20    |
+| M1  | s11     | 50    | ODI    |
+| M5  | s2      | 20    | T20    |
+| M9  | s6      | 50    | ODI    |
+| M10 | s6      | 50    | ODI    |
++-----+---------+-------+--------+
+5 rows in set (0.00 sec)
+
+mysql> SELECT series, firstTeam, Tournament.TID
+    -> FROM Tournament NATURAL JOIN Matchs
+    -> WHERE series LIKE '%Test Match%'
+    -> AND firstTeam LIKE '%New Zealand Team%' AND Tournament.TID = Matchs.TID;
+    -> CREATE INDEX TournamentInd ON Tournament(series);
+    -> CREATE INDEX MatchesInd ON Matchs(firstTeam);
+    -> //
++------------+------------------+-----+
+| series     | firstTeam        | TID |
++------------+------------------+-----+
+| Test match | New Zealand Team | T10 |
+| Test match | New Zealand Team | T15 |
++------------+------------------+-----+
+2 rows in set (0.00 sec)
+
+Query OK, 0 rows affected (0.08 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.16 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> SELECT series, firstTeam, Tournament.TID
+    -> FROM Tournament NATURAL JOIN Matchs
+    -> WHERE series LIKE '%Test Match%'
+    -> AND firstTeam LIKE '%New Zealand Team%' AND Tournament.TID = Matchs.TID;
+    -> //
++------------+------------------+-----+
+| series     | firstTeam        | TID |
++------------+------------------+-----+
+| Test match | New Zealand Team | T10 |
+| Test match | New Zealand Team | T15 |
++------------+------------------+-----+
+2 rows in set (0.00 sec)
+
+mysql> CREATE INDEX AchievementInd ON Achievement(winner, highestScore, runnerUp);
+    -> CREATE INDEX PlaysInd ON Plays(date_time,scheduleID);
+    -> //
+Query OK, 0 rows affected (0.07 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.14 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> SELECT achieve.winner, achieve.runnerUp, achieve.highestScore, achieve.man_of_match, played.scheduleID, played.date_time
+    -> FROM Achievement achieve NATURAL JOIN Plays played
+    -> WHERE achieve.highestScore > 160 AND achieve.MID = played.MID
+    -> ORDER BY (scheduleID) ASC; 
+    -> //
++-------------------+--------------------+--------------+----------------+------------+---------------------+
+| winner            | runnerUp           | highestScore | man_of_match   | scheduleID | date_time           |
++-------------------+--------------------+--------------+----------------+------------+---------------------+
+| Australian Team   | Netherlands Team   |          191 | Geroge Nickson |          1 | 1998-02-12 12:30:00 |
+| England Team      | Pakistan Team      |          222 | David McBroom  |          3 | 1976-04-12 11:30:00 |
+| Bangladesh Team   | Kenya Team         |          209 | Gurdeep Singh  |          7 | 1996-01-16 19:30:00 |
+| Canadian Team     | Netherlands Team   |          163 | Tim Southee    |         10 | 2013-03-29 18:30:00 |
+| Indian Team       | Sri Lankan Team    |          162 | Rohit Sharma   |         14 | 2019-02-12 19:30:00 |
+| Afghanistan Team  | Zimbabwe Team      |          212 | Litton Das     |         15 | 2004-02-12 19:00:00 |
+| Bangladesh Team   | Pakistan Team      |          161 | Shaheen Afridi |         16 | 2014-08-12 11:30:00 |
+| West Indians Team | United states Team |          187 | Zaruk Bishu    |         17 | 2000-02-22 12:00:00 |
+| Sri Lankan Team   | Ireland Team       |          236 | Kusal Mendis   |         19 | 2022-02-27 12:00:00 |
++-------------------+--------------------+--------------+----------------+------------+---------------------+
+9 rows in set (0.00 sec)
+
